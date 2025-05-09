@@ -1,0 +1,18 @@
+# node
+node_modules/
+.env
+dist/
+build/
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode/
+.idea/
